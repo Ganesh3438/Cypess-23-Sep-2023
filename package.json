@@ -1,0 +1,14 @@
+{
+  "name": "cypress-23sep2023",
+  "version": "1.0.0",
+  "description": "Automation framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "Mohan",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.3.2"
+  }
+}
